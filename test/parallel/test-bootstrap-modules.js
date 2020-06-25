@@ -43,6 +43,7 @@ const expectedModules = new Set([
   'NativeModule internal/constants',
   'NativeModule internal/encoding',
   'NativeModule internal/errors',
+  'NativeModule internal/event_target',
   'NativeModule internal/fixed_queue',
   'NativeModule internal/fs/dir',
   'NativeModule internal/fs/utils',
@@ -85,6 +86,7 @@ const expectedModules = new Set([
   'NativeModule path',
   'NativeModule timers',
   'NativeModule url',
+  'NativeModule util',
   'NativeModule vm',
 ]);
 
